@@ -43,49 +43,6 @@ A personal repository for:
 15. Dynamic Programming
 16. Mock Coding Tests
 
-## 6-Day Huawei Coding Test Preparation
-
-| Day | Training focus |
-| --- | --- |
-| Day 1 | ACM-style input/output<br>Arrays<br>Strings<br>Sorting |
-| Day 2 | Hash tables<br>Two pointers<br>Sliding window |
-| Day 3 | Prefix sum<br>Binary search<br>Stack<br>Queue<br>Priority queue |
-| Day 4 | DFS<br>BFS<br>Backtracking |
-| Day 5 | Greedy algorithms<br>Dynamic programming basics<br>1D DP<br>2D DP<br>Basic 0/1 Knapsack |
-| Day 6 | Huawei-style mixed problems<br>Full mock coding tests<br>Error review<br>Weak-topic review |
-
-## Solution Format
-
-For each problem, it is recommended to record:
-
-- Problem summary
-- Key idea
-- Algorithm
-- Time complexity
-- Space complexity
-- Mistakes / Notes
-
-The following C++ comment template is optional, but recommended for important or error-prone problems:
-
-```cpp
-/*
-Problem:
-Brief description of the problem.
-
-Idea:
-Explain the key idea and why this algorithm is suitable.
-
-Algorithm:
-Describe the main steps.
-
-Complexity:
-Time: O(...)
-Space: O(...)
-
-Mistakes / Notes:
-Record mistakes, edge cases, or useful observations.
-*/
-```
 
 ## Repository Structure
 
